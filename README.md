@@ -29,7 +29,7 @@
         },
         "frame": false
     },
-    
+    /
     "apc.header": {
         "height": 36
     },
